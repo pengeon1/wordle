@@ -1,2 +1,3 @@
 # wordle
-The game of wordle in python (tkinter)
+
+- Download as zip, extract and run the 2048(FINAL).py file in IDLE.
